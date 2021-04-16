@@ -1,11 +1,8 @@
 ## About Me:
 ```
 I am TheSingleOne - often shortened to TS1.
-
 -I am a student learning to program and a Fortnite Creative map maker.
-
 -I know some python (but not much), quite a lot of Visual Basic, and am in the process of learning C#. 
-
 -I am a bad graphics designer and YouTuber, but hope to get better.
 ```
 ## Links:
@@ -23,7 +20,5 @@ Website - https://TheSingleOneYT.github.io/
 ```
 Use my code 'TheSingleOneYT' in the Fortnite item store! #Ad #EpicPartner!
 Follow my Twitter!
-
 Subscribe to my YouTube channel!
-
 You do not need to do any of these but if you do, thank you!
