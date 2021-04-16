@@ -9,7 +9,7 @@ I am TheSingleOne - often shortened to TS1.
 -I am a bad graphics designer and YouTuber, but hope to get better.
 ```
 ## Links:
-```
+
 YouTube - https://www.youtube.com/channel/UCaCMegNb4sWCc9rSF2GTpSg
 
 Twitter - https://twitter.com/TheSingleOneYT
@@ -18,7 +18,7 @@ FCHQ (My FNCreate Maps) - https://thesingleoneyt.fchq.io/
 
 Website - https://TheSingleOneYT.github.io/
 
-```
+
 ## How To Support Me:
 ```
 Use my code 'TheSingleOneYT' in the Fortnite item store! #Ad #EpicPartner!
