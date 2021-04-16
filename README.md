@@ -26,3 +26,8 @@ Follow my Twitter!
 Subscribe to my YouTube channel!
 
 You do not need to do any of these but if you do, thank you!
+
+## Random:
+
+```
+I post random things on here so they could be bad :)
