@@ -7,7 +7,7 @@ I am TheSingleOne - often shortened to TS1.
 ```
 ## Links:
 
-YouTube - https://www.youtube.com/channel/UCaCMegNb4sWCc9rSF2GTpSg
+YouTube - https://www.youtube.com/c/TheSingleOneYT
 
 Twitter - https://twitter.com/TheSingleOneYT
 
