@@ -1,24 +1,11 @@
-## About Me:
-```
-I am TheSingleOne - often shortened to TS1.
--I am a student learning to program and a Fortnite Creative map maker.
--I know some python (but not much), quite a lot of Visual Basic, and am in the process of learning C#. 
--I am a bad graphics designer and YouTuber, but hope to get better.
-```
-## Links:
+# Hi! I'm TheSingleOne!
 
-YouTube - https://www.youtube.com/c/TheSingleOneYT
+Often shortened to TS1, I do some random things on this profile and make YT videos on some games. Language wise, I am learning C# and Python whilst also investigating HTML & CSS as well as Batch & Powershell.
 
-Twitter - https://twitter.com/TheSingleOneYT
+## Website
 
-FCHQ (My FNCreate Maps) - https://thesingleoneyt.fchq.io/
+You will find all my socials plus some other stuff here: https://TheSingleOneYT.github.io/
 
-Website - https://TheSingleOneYT.github.io/
+## Stats
 
-
-## How To Support Me:
-```
-Use my code 'TheSingleOneYT' in the Fortnite item store! #Ad #EpicPartner!
-Follow my Twitter!
-Subscribe to my YouTube channel!
-You do not need to do any of these but if you do, thank you!
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSingleOneYT&count_private=false&show_icons=true&theme=dark)]()
